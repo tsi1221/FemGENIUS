@@ -1,0 +1,9 @@
+{
+  "name": "FemGenius",
+  "description": "A personal growth and empowerment platform for women to discover strengths, build confidence, and plan intentional lives.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
